@@ -1,1 +1,1 @@
-# Akash.D
+# Google Data Analytics Capstone: Case Study
